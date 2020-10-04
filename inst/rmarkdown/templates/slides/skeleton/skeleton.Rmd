@@ -1,0 +1,18 @@
+---
+title: ""
+subtitle: ""
+author: "Andrew Bray"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+      highlightStyle: atelier-forest-light
+      highlightLines: true
+      highlightSpans: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+#source("slides_css.R")
+```

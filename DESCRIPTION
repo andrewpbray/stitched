@@ -1,0 +1,10 @@
+Package: stitched
+Type: Package
+Title: R Markdown Templates with Linked CSS
+Version: 0.1.0
+Author: Andrew Bray
+Maintainer: Andrew Bray <andrewbray@berkeley.edut>
+Description: 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

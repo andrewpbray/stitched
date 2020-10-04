@@ -1,0 +1,4 @@
+name: slides
+description: >
+   Html slides built using xaringan and xaringanthemer
+create_dir: FALSE
