@@ -14,5 +14,5 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-#source("slides_css.R")
+source("https://raw.githubusercontent.com/andrewpbray/stitched/master/demos/slides_css.R")
 ```
